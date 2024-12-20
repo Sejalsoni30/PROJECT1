@@ -47,6 +47,7 @@ header {
             width: 10px;
         }
     }
+
     .social {
         padding-right: 70px;
         gap: 30px;
@@ -55,6 +56,7 @@ header {
 
     }
 }
+
 main {
     padding: 10px 70px 10px 70px;
 
@@ -70,6 +72,7 @@ main {
         border-radius: 10px;
     }
 }
+
 .s2 {
 
     h1 {
@@ -134,7 +137,7 @@ main {
         }
 
         .box {
-padding: 0px;
+            padding: 0px;
             /* margin: 0px 90px 0px 80px; */
 
             img {
@@ -196,7 +199,7 @@ padding: 0px;
     font-family: sans-serif;
 
     h1 {
-        padding:40px 0px 0px 40px;
+        padding: 40px 0px 0px 40px;
         color: white;
         font-size: 80px;
     }
@@ -292,7 +295,7 @@ padding: 0px;
 
     footer {
         color: aliceblue;
-      
+
         left: 60px;
         top: 30px;
 
@@ -305,7 +308,7 @@ padding: 0px;
 
     .foot {
         color: aliceblue;
-        
+
         right: 60px;
         top: 30px;
         text-decoration: none;
@@ -315,8 +318,9 @@ padding: 0px;
         }
     }
 }
-.m3{
-    padding: 5px ;
+
+.m3 {
+    padding: 5px;
     background-color: blue;
     color: white;
     border-radius: 40px;
@@ -324,16 +328,18 @@ padding: 0px;
     display: block;
     display: none;
 }
-@media only screen and(max-width:800px)
-{
-    .m3{
+
+@media only screen and(max-width:800px) {
+    .m3 {
         display: block;
     }
-    a{
+
+    a {
         display: none;
 
     }
-    .s1{
+
+    .s1 {
         width: 100px;
     }
 
